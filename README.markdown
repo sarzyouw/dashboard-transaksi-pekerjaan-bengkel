@@ -1,7 +1,14 @@
-# Finance Mobile Application-UX/UI Design Screen One
+Dashboard Honda AHASS 904
+Deskripsi Proyek
+Sistem Informasi Manajemen Bengkel Honda AHASS 904 berbasis PHP Native dan MySQL. Mendukung efisiensi operasional melalui fitur kelola data pelanggan, database kendaraan, inventaris sparepart, dan manajemen pegawai. Terintegrasi dengan modul transaksi pembayaran untuk menghasilkan laporan pekerjaan dan penjualan secara akurat serta terpusat.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/sowg/pen/dyzRPrO](https://codepen.io/sowg/pen/dyzRPrO).
+Fitur Utama
+* Manajemen Pelanggan & Motor: Pendataan riwayat pemilik dan spesifikasi kendaraan roda dua secara sistematis.
+* Inventory Item (Sparepart): Pengelolaan stok suku cadang asli Honda untuk memastikan ketersediaan barang.
+* Manajemen Pegawai: Pengaturan data mekanik dan staf administrasi yang bertugas di bengkel.
+* Transaksi Pembayaran: Modul kalkulasi biaya jasa servis dan penjualan sparepart dalam satu invoice.
 
-Based on: https://dribbble.com/shots/14210557-Finance-Mobile-Application-UX-UI-Design
-
-Since there are three screens I think it will be better if I do them one by one, then join them all together
+Teknologi
+* Language: PHP Native
+* Database: MySQL
+* Frontend: Bootstrap 5 (Responsive Design)
